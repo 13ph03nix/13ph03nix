@@ -12,10 +12,10 @@ hi, i'm fenix.
 ```text
 Total: 12 hrs 37 mins
 
-Python             12 hrs 19 mins  ███████████████████████░░   92.40 % 
-Other              42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-reStructuredText   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Text               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python             12 hrs 19 mins  ████████████████████████░   96.38 % 
+reStructuredText   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
