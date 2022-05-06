@@ -10,7 +10,10 @@ hi, i'm fenix.
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 2 mins
+
+Other   4 mins          ████████████████░░░░░░░░░   63.99 % 
+Bash    2 mins          █████████░░░░░░░░░░░░░░░░   36.01 % 
 ```
 <!--END_SECTION:waka-->
 
