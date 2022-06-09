@@ -24,5 +24,5 @@ Docker     2 mins          ░░░░░░░░░░░░░░░░░�
 📈 my github stats
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=13ph03nix&show_icons=true&hide=stars&include_all_commits=true&theme=blueberry" alt="13ph03nix" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=13ph03nix&show_icons=true&hide=stars&theme=blueberry" alt="13ph03nix" />
 </a>
