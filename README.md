@@ -11,8 +11,9 @@ hi, i'm fenix.
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 16 mins   ████████████████▒░░░░░░░░   64.92 %
-Other    1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Python   5 hrs 28 mins   ██████████████████▓░░░░░░   75.29 %
+Docker   48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Other    42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 ```
 
 <!--END_SECTION:waka-->
