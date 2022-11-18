@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm fenix. 
+Hi, I'm fenix. An independent security researcher and open source developer :)
 
 :key: GPG key: [`3F4CDF9CE8423CF3`](https://github.com/13ph03nix.gpg)
 
